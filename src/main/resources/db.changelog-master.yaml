@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: classpath:pre-prod-211024-changelog.xml
